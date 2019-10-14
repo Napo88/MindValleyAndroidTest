@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PinBoard</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="refresh_title">Refresh</string>
+    <string name="clear_cache">Clear Cache</string>
+</resources>
